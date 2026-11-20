@@ -1,0 +1,154 @@
+{
+  "vocabulary_coverage": {
+    "total_words": 426,
+    "covered_words": 170,
+    "coverage_ratio": 0.39906103286384975,
+    "vocabulary_size": 438
+  },
+  "similarity_examples": {
+    "software": [
+      [
+        "scalable",
+        0.3683961033821106
+      ],
+      [
+        "your",
+        0.3512853980064392
+      ],
+      [
+        "maintain",
+        0.3432326912879944
+      ],
+      [
+        "these",
+        0.3385217785835266
+      ],
+      [
+        "accessed",
+        0.3321019113063812
+      ]
+    ],
+    "programming": [
+      [
+        "hacktoberfest",
+        0.5305330157279968
+      ],
+      [
+        "source",
+        0.4133061170578003
+      ],
+      [
+        "object",
+        0.3399033844470978
+      ],
+      [
+        "off",
+        0.3213265538215637
+      ],
+      [
+        "then",
+        0.31805986166000366
+      ]
+    ],
+    "algorithm": "Word not in vocabulary",
+    "code": "Word not in vocabulary",
+    "function": "Word not in vocabulary",
+    "data": [
+      [
+        "allows",
+        0.4265930652618408
+      ],
+      [
+        "may",
+        0.39681753516197205
+      ],
+      [
+        "was",
+        0.31454288959503174
+      ],
+      [
+        "electrical",
+        0.31371647119522095
+      ],
+      [
+        "application",
+        0.3132084310054779
+      ]
+    ],
+    "system": [
+      [
+        "architectures",
+        0.5169605016708374
+      ],
+      [
+        "executed",
+        0.4033123254776001
+      ],
+      [
+        "learning",
+        0.37543612718582153
+      ],
+      [
+        "based",
+        0.36020252108573914
+      ],
+      [
+        "forks",
+        0.35801461338996887
+      ]
+    ]
+  },
+  "se_term_similarities": {
+    "programming_languages": {
+      "python": [
+        [
+          "complex",
+          0.44683557748794556
+        ],
+        [
+          "sdlc",
+          0.4042264521121979
+        ],
+        [
+          "consideration",
+          0.3516708314418793
+        ]
+      ],
+      "java": "Not in vocabulary",
+      "javascript": "Not in vocabulary",
+      "cpp": "Not in vocabulary"
+    },
+    "concepts": {
+      "algorithm": "Not in vocabulary",
+      "function": "Not in vocabulary",
+      "class": "Not in vocabulary",
+      "method": [
+        [
+          "previously",
+          0.4468235671520233
+        ],
+        [
+          "blueprints",
+          0.3577699363231659
+        ],
+        [
+          "deutsch",
+          0.3577410876750946
+        ]
+      ]
+    },
+    "tools": {
+      "git": "Not in vocabulary",
+      "docker": "Not in vocabulary",
+      "database": "Not in vocabulary",
+      "framework": "Not in vocabulary"
+    }
+  },
+  "classification": {
+    "train_accuracy": 0.631578947368421,
+    "test_accuracy": 0.42857142857142855,
+    "num_classes": 5,
+    "train_samples": 19,
+    "test_samples": 7
+  }
+}
