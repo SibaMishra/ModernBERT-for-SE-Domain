@@ -1,5 +1,5 @@
 # Software Engineering (SE) Domain Specific Embeddings: Comparative Study. 
-Title: ModernBERT for Software Engineering: Domain Adaptation, Contextual Embedding, and Empirical Trade-off Analysis
+Title: ModernBERT for Software Engineering: Domain Adaptation, Contextual Embedding, and Empirical Trade-off Analysis accepted at the 20th ISEC'2027, Mumbai, India.
 
 ## Overview
 
