@@ -1,0 +1,89 @@
+[
+  {
+    "title": "Software engineering",
+    "text": "Software engineering is a branch of both computer science and engineering focused on designing, developing, testing, and maintaining software applications. It involves applying engineering principles and computer programming expertise to develop software systems that meet user needs. A software engineer applies a software development process to define, implement, test, manage, and maintain software systems.",
+    "url": "https://en.wikipedia.org/wiki/Software%20engineering",
+    "source": "wikipedia",
+    "search_term": "software engineering",
+    "timestamp": 1782485130.7554936,
+    "word_count": 54,
+    "char_count": 410,
+    "se_relevance_score": 0.24074074074074073
+  },
+  {
+    "title": "Machine Learning in Software Development - Part 4",
+    "text": "Machine learning is increasingly being integrated into software development processes. It can be used for automated testing, code generation, bug detection, and performance optimization.",
+    "source": "sample",
+    "type": "educational",
+    "timestamp": 1782485193.550692,
+    "word_count": 24,
+    "char_count": 186,
+    "se_relevance_score": 0.20833333333333334
+  },
+  {
+    "title": "Machine Learning in Software Development - Part 19",
+    "text": "Machine learning is increasingly being integrated into software development processes. It can be used for automated testing, code generation, bug detection, and performance optimization.",
+    "source": "sample",
+    "type": "educational",
+    "timestamp": 1782485193.5507212,
+    "word_count": 24,
+    "char_count": 186,
+    "se_relevance_score": 0.20833333333333334
+  },
+  {
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "readme": "# Try Public APIs for free\nThe Public APIs repository is manually curated by community members like you and folks working at [APILayer](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo). It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years.\n\n<br >\n\n<p>\n    <a href=\"https://apilayer.com\">\n        <div>\n            <img src=\".github/cs1586-APILayerLogoUpdate2022-LJ_v2-HighRes.png\" width=\"100%\" alt=\"APILayer Logo\" />\n        </div>\n    </a>\n  </p>\n\nAPILayer is the fastest way to integrate APIs into any product. Explore [APILayer APIs](https://apilayer.com/products/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) here for your next project.\n\nJoin our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) to get updates, ask questions, get answers, random community calls, and more.\n\n<br >\n\n## APILayer APIs\n| API | Description | Call this API |\n|:---|:---|:---|\n| [IPstack](https://ipstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers) | Locate and Identify Website Visitors by IP Address | [<img src=\"https://run.pstmn.io/button.svg\" alt=\"Run In Postman\" style=\"width: 128px; height: 32px;\">](https://god.gw.postman.com/run-collection/10131015-55145132-244c-448c-8e6f-8780866e4862?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D10131015-55145132-244c-448c-8e6f-8780866e4862%26entityType%3Dcollection%26workspaceId%3D2b7498b6-6d91-4fa8-817f-608441fe42a8)|\n| [Marketstack](https://marketstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers) | Free, easy-to-use REST API interface delivering worldwide stock market data in JSON format | [<img src=\"https://run.pstmn.io/button.svg\" alt=\"Run In Postman\" style=\"width: 128px; height: 32px;\">](https://god.gw.postman.com/run-collection/10131015-9cbac391-3611-4f50-9bfd-d24ae41c97c1?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D10131015-9cbac391-3611-4f50-9bfd-d24ae41c97c1%26entityType%3Dcollection%26workspaceId%3D2b7498b6-6d91-4fa8-817f-608441fe42a8)|\n| [Weatherstack](https://weatherstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers) | Retrieve instant, accurate weather information for any location in the world in lightweight JSON format | [<img src=\"https://run.pstmn.io/button.svg\" alt=\"Run In Postman\" style=\"width: 128px; height: 32px;\">](https://god.gw.postman.com/run-collection/10131015-276c4312-f682-425d-b6b1-0f82c0a7f2b3?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D10131015-276c4312-f682-425d-b6b1-0f82c0a7f2b3%26entityType%3Dcollection%26workspaceId%3D2b7498b6-6d91-4fa8-817f-608441fe42a8)|\n| [Numverify](https://numverify.com/?utm_source=Github&utm_medium=Referral&utm_c",
+    "language": "Python",
+    "stars": 444344,
+    "url": "https://github.com/public-apis/public-apis",
+    "source": "github",
+    "timestamp": 1782485181.6457448,
+    "text": "A collective list of free APIs Try Public APIs for free The Public APIs repository is manually curated by community members like you and folks working at APILayer APILayer is the fastest way to integrate APIs into any product. Explore APILayer APIs Join our Discord server APILayer APIs API Description Call this API : : : IPstack Locate and Identify Website Visitors by IP Address Marketstack Free, easy to use REST API interface delivering worldwide stock market data in JSON format Weatherstack Retrieve instant, accurate weather information for any location in the world in lightweight JSON format Numverify",
+    "word_count": 98,
+    "char_count": 611,
+    "se_relevance_score": 0.05102040816326531
+  },
+  {
+    "title": "What does if __name__ == &quot;__main__&quot;: do?",
+    "body": "<p>What does this do, and why should one include the <code>if</code> statement?</p>\n<pre class=\"lang-py prettyprint-override\"><code>if __name__ == &quot;__main__&quot;:\n    print(&quot;Hello, World!&quot;)\n</code></pre>\n<hr />\n<p><sub>If you are trying to close a question where someone should be using this idiom and isn't, consider closing as a duplicate of <a href=\"https://stackoverflow.com/questions/6523791\">Why is Python running my module when I import it, and how do I stop it?</a> instead. For questions where someone simply hasn't called any functions, or incorrectly expects a function named <code>main</code> to be used as an entry point automatically, use <a href=\"https://stackoverflow.com/questions/17257631\">Why doesn&#39;t the main() function run when I start a Python script? Where does the script start running?</a>.</sub></p>\n",
+    "text": "What does if name quot; main quot;: do? What does this do, and why should one include the if statement? if name quot; main quot;: print quot;Hello, World! quot; If you are trying to close a question where someone should be using this idiom and isn t, consider closing as a duplicate of Why is Python running my module when I import it, and how do I stop it? instead. For questions where someone simply hasn t called any functions, or incorrectly expects a function named main to be used as an entry point automatically, use Why doesn 39;t the main function run when I start a Python script? Where does the script start running? .",
+    "score": 8440,
+    "tags": [
+      "python",
+      "namespaces",
+      "program-entry-point",
+      "python-module",
+      "idioms"
+    ],
+    "url": "https://stackoverflow.com/questions/419163/what-does-if-name-main-do",
+    "source": "stackoverflow",
+    "search_tag": "python",
+    "timestamp": 1782485190.3196018,
+    "word_count": 116,
+    "char_count": 629,
+    "se_relevance_score": 0.034482758620689655
+  },
+  {
+    "title": "NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems",
+    "abstract": "Industrial advertising recommender models are continuously improved through architecture evolution. Upgrades such as RankMixer, TokenMixer-Large, and MixFormer show that better structures remain a key source of quality and business gains. Yet developing such upgrades in production is expert-intensive and difficult to scale. Existing automation is insufficient: AutoML mainly tunes hyper-parameters, while effective gains often require cross-module changes under strict constraints; generic LLM coding agents optimize for runnable code, but runnable code does not imply a valid recommender architecture. Candidates may pass local tests while causing silent failures that degrade performance.\n  We present NOVA, a level-aware agent harness for verification-aware architecture evolution. NOVA uses an architecture gradient, an SGD-inspired, non-differentiable update signal that aggregates prior modifications, verification diagnostics, metric feedback, and trajectory memory to guide the next modification. A verification cascade checks structure semantics, local executability, offline effectiveness, and online impact; invalid candidates are blocked early, with failure patterns recorded as forbidden directions. L1--L4 task-level control matches automation to task complexity and risk, routing high-risk tasks to Copilot for human oversight. Deployed in an industrial advertising system, NOVA achieves the highest effective pass rate on L2 ScaleUp and L3 Literature-to-Production tasks (54.5% and 60.0%), reduces silent failures compared with coding-agent baselines, and shortens one literature-to-production cycle by over 13x in human-attended time. In online A/B testing, the selected L3 candidate improves GMV on three pCVR objectives by +1.25%, +1.70%, and +2.02%, while reducing pCVR bias by 58.8%, 66.7%, and 37.3%.",
+    "text": "NOVA: A Verification Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems Industrial advertising recommender models are continuously improved through architecture evolution. Upgrades such as RankMixer, TokenMixer Large, and MixFormer show that better structures remain a key source of quality and business gains. Yet developing such upgrades in production is expert intensive and difficult to scale. Existing automation is insufficient: AutoML mainly tunes hyper parameters, while effective gains often require cross module changes under strict constraints; generic LLM coding agents optimize for runnable code, but runnable code does not imply a valid recommender architecture. Candidates may pass local tests while causing silent failures that degrade performance. We present NOVA, a level aware agent harness for verification aware architecture evolution. NOVA uses an architecture gradient, an SGD inspired, non differentiable update signal that aggregates prior modifications, verification diagnostics, metric feedback, and trajectory memory to guide the next modification. A verification cascade checks structure semantics, local executability, offline effectiveness, and online impact; invalid candidates are blocked early, with failure patterns recorded as forbidden directions. L1 L4 task level control matches automation to task complexity and risk, routing high risk tasks to Copilot for human oversight. Deployed in an industrial advertising system, NOVA achieves the highest effective pass rate on L2 ScaleUp and L3 Literature to Production tasks 54.5 and 60.0 , reduces silent failures compared with coding agent baselines, and shortens one literature to production cycle by over 13x in human attended time. In online A B testing, the selected L3 candidate improves GMV on three pCVR objectives by 1.25 , 1.70 , and 2.02 , while reducing pCVR bias by 58.8 , 66.7 , and 37.3 .",
+    "url": "",
+    "category": "cs.SE",
+    "source": "arxiv",
+    "timestamp": 1782485192.546842,
+    "word_count": 277,
+    "char_count": 1917,
+    "se_relevance_score": 0.018050541516245487
+  },
+  {
+    "title": "Machine Learning in Software Development - Part 14",
+    "text": "Machine learning is increasingly being integrated into software development processes. It can be used for automated testing, code generation, bug detection, and performance optimization.",
+    "source": "sample",
+    "type": "educational",
+    "timestamp": 1782485193.5507119,
+    "word_count": 24,
+    "char_count": 186,
+    "se_relevance_score": 0.20833333333333334
+  }
+]

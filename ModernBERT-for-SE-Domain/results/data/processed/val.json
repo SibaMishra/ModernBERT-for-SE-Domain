@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Data Structures and Algorithms - Part 3",
+    "text": "Data structures are ways of organizing and storing data so that they can be accessed and worked with efficiently. Common data structures include arrays, linked lists, stacks, queues, trees, and graphs.",
+    "source": "sample",
+    "type": "educational",
+    "timestamp": 1782485193.5506892,
+    "word_count": 31,
+    "char_count": 201,
+    "se_relevance_score": 0.0967741935483871
+  },
+  {
+    "title": "Introduction to Software Engineering - Part 1",
+    "text": "Software engineering is the systematic application of engineering approaches to the development of software. It involves the use of principles from computer science, engineering, and mathematical analysis to design, develop, test, and maintain software systems.",
+    "source": "sample",
+    "type": "educational",
+    "timestamp": 1782485193.550675,
+    "word_count": 35,
+    "char_count": 261,
+    "se_relevance_score": 0.2
+  },
+  {
+    "title": "What does the &quot;yield&quot; keyword do in Python?",
+    "body": "<p>What functionality does the <a href=\"https://docs.python.org/3/reference/simple_stmts.html#yield\" rel=\"noreferrer\"><code>yield</code></a> keyword in Python provide?</p>\n<p>For example, I'm trying to understand this code<sup><strong>1</strong></sup>:</p>\n<pre><code>def _get_child_candidates(self, distance, min_dist, max_dist):\n    if self._leftchild and distance - max_dist &lt; self._median:\n        yield self._leftchild\n    if self._rightchild and distance + max_dist &gt;= self._median:\n        yield self._rightchild  \n</code></pre>\n<p>And this is the caller:</p>\n<pre><code>result, candidates = [], [self]\nwhile candidates:\n    node = candidates.pop()\n    distance = node._get_dist(obj)\n    if distance &lt;= max_dist and distance &gt;= min_dist:\n        result.extend(node._values)\n    candidates.extend(node._get_child_candidates(distance, min_dist, max_dist))\nreturn result\n</code></pre>\n<p>What happens when the method <code>_get_child_candidates</code> is called?\nIs a list returned? A single element? Is it called again? When will subsequent calls stop?</p>\n\n<hr />\n<sub>\n1. This piece of code was written by Jochen Schulz (jrschulz), who made a great Python library for metric spaces. This is the link to the complete source: <a href=\"https://well-adjusted.de/~jrspieker/mspace/\" rel=\"noreferrer\">Module mspace</a>.</sub> \n",
+    "text": "What does the quot;yield quot; keyword do in Python? What functionality does the yield keyword in Python provide? For example, I m trying to understand this code 1 : def get child candidates self, distance, min dist, max dist : if self. leftchild and distance max dist lt; self. median: yield self. leftchild if self. rightchild and distance max dist gt; self. median: yield self. rightchild And this is the caller: result, candidates , self while candidates: node candidates.pop distance node. get dist obj if distance lt; max dist and distance gt; min dist: result.extend node. values candidates.extend node. get child candidates distance, min dist, max dist return result What happens when the method get child candidates is called? Is a list returned? A single element? Is it called again? When will subsequent calls stop? 1. This piece of code was written by Jochen Schulz jrschulz , who made a great Python library for metric spaces. This is the link to the complete source: Module mspace .",
+    "score": 13135,
+    "tags": [
+      "python",
+      "iterator",
+      "generator",
+      "yield"
+    ],
+    "url": "https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python",
+    "source": "stackoverflow",
+    "search_tag": "python",
+    "timestamp": 1782485190.3195863,
+    "word_count": 167,
+    "char_count": 996,
+    "se_relevance_score": 0.03592814371257485
+  },
+  {
+    "title": "Machine Learning in Software Development - Part 9",
+    "text": "Machine learning is increasingly being integrated into software development processes. It can be used for automated testing, code generation, bug detection, and performance optimization.",
+    "source": "sample",
+    "type": "educational",
+    "timestamp": 1782485193.5507019,
+    "word_count": 24,
+    "char_count": 186,
+    "se_relevance_score": 0.20833333333333334
+  },
+  {
+    "title": "Social software engineering",
+    "text": "Social software engineering SSE is a branch of software engineering that is concerned with the social aspects of software development and the developed software. SSE focuses on the socialness of both software engineering and developed software. On the one hand, the consideration of social factors in software engineering activities, processes and CASE tools is deemed to be useful to improve the quality of both development process and produced software. Examples include the role of situational awareness and multi cultural factors in collaborative software development. On the other hand, the dynamicity of the social contexts in which software could operate e.g., in a cloud environment calls for engineering social adaptability as a runtime iterative activity. Examples include approaches which enable software to gather users quality feedback and use it to adapt autonomously or semi autonomously. SSE studies and builds socially oriented tools to support collaboration and knowledge sharing in software engineering. SSE also investigates the adaptability of software to the dynamic social contexts in which it could operate and the involvement of clients and end users in shaping software adaptation decisions at runtime. Social context includes norms, culture, roles and responsibilities, stakeholder s goals and interdependencies, end users perception of the quality and appropriateness of each software behaviour, etc. The participants of the 1st International Workshop on Social Software Engineering and Applications SoSEA 2008 proposed the following characterization: Community centered: Software is produced and consumed by and or for a community rather than focusing on individuals Collaboration collectiveness: Exploiting the collaborative and collective capacity of human beings Companionship relationship: Making explicit the various associations among people Human social activities: Software is designed consciously to support human activities and to address social problems Social inclusion: Software should enable social inclusion enforcing links and trust in communities Thus, SSE can be defined as the application of processes, methods, and tools to enable community driven creation, management, deployment, and use of software in online environments . One of the main observations in the field of SSE is that the concepts, principles, and technologies made for social software applications are applicable to software development itself as software engineering is inherently a social activity. SSE is not limited to specific activities of software development. Accordingly, tools have been proposed supporting different parts of SSE, for instance, social system design or social requirements engineering. Consequently vertical market software, such as software development tools, engineering tools, marketing tools or software that helps users in a decision making process can profit from social components. Such vertical social software differentiates strongly in its user base from traditional social software such as Yammer.",
+    "url": "https://en.wikipedia.org/wiki/Social%20software%20engineering",
+    "source": "wikipedia",
+    "search_term": "software engineering",
+    "timestamp": 1782485168.3185334,
+    "word_count": 432,
+    "char_count": 3050,
+    "se_relevance_score": 0.09259259259259259
+  },
+  {
+    "title": "Web Development Best Practices - Part 5",
+    "text": "Web development involves creating websites and web applications. Best practices include responsive design, accessibility, security considerations, performance optimization, and following web standards.",
+    "source": "sample",
+    "type": "educational",
+    "timestamp": 1782485193.550694,
+    "word_count": 22,
+    "char_count": 201,
+    "se_relevance_score": 0.18181818181818182
+  },
+  {
+    "title": "Object-Oriented Programming Concepts - Part 7",
+    "text": "Object oriented programming OOP is a programming paradigm based on the concept of objects, which can contain data and code. The main principles of OOP include encapsulation, inheritance, and polymorphism.",
+    "source": "sample",
+    "type": "educational",
+    "timestamp": 1782485193.5506983,
+    "word_count": 30,
+    "char_count": 204,
+    "se_relevance_score": 0.1
+  }
+]
