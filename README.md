@@ -6,7 +6,7 @@ Title: ModernBERT for Software Engineering: Domain Adaptation, Contextual Embedd
 This work implements a comprehensive framework for the collection, preprocessing, training, and evaluation of word embedding models specifically tailored for the Software Engineering (SE) domain. We compare the traditional static embedding models viz. (Word2Vec, gloVe and fastText) with transformer-based approaches (ModernBERT) to understand their performance, computational trade-offs, and applicability in various SE tasks.
 
 ## Authors
-Anonymous
+Siba Mishra, Unnati Shah and Vishruti V Desai
 
 ## Key Features
 
